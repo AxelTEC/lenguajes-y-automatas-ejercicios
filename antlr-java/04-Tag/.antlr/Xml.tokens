@@ -1,0 +1,11 @@
+TAGIN=1
+TAGFI=2
+IGUAL=3
+COMILLA=4
+SLASH=5
+TEXT=6
+'<'=1
+'>'=2
+'='=3
+'"'=4
+'/'=5

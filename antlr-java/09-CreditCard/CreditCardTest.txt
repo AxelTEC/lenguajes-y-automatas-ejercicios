@@ -1,0 +1,82 @@
+Skip to content
+Search or jump to…
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@AxelTEC 
+XenyEns
+/
+automatas
+Public
+Code
+Issues
+Pull requests
+Actions
+Projects
+Security
+Insights
+automatas/exercises/lecture03-CreditCard/inputFile.dat
+@XenyEns
+XenyEns Update inputFile.dat
+Latest commit 7042311 38 seconds ago
+ History
+ 1 contributor
+41 lines (36 sloc)  1.49 KB
+
+/**
+*
+* INPUT FILE
+* Test file: Don't modify this file
+*
+**/
+
+
+Laser, 6304 5054 5683 0148, pass Luhn test
+Visa, 4669 2250 9069 6052, pass Luhn test
+Visa, 4 4149 7070 1959, fail Luhn test
+Diners Club Carte Blanche, 30 4736 9619 5266, fail Luhn test
+InstaPayment, 6399 8882 0327 3078, fail Luhn test
+JCB, 3586 6693 0636 7325, pass Luhn test
+American Express, 379 6775 6059 2239, fail Luhn test
+Diners Club US and Canada, 5424 5949 9026 8591, fail Luhn test
+Mastercard, 5372 4570 6398 6212, fail Luhn test
+Maestro, 502 0635 6359 0356, pass Luhn test
+Visa Electron, 4175 0060 2050 1142, pass Luhn test
+American Express, 343 2846 9195 7209, pass Luhn test
+Maestro, 503 8272 8759 2503, pass Luhn test
+InstaPayment, 6374 1469 8380 2378, pass Luhn test
+JCB, 3557 7960 6883 4765, pass Luhn test
+American Express, 370 8512 2015 9188, pass Luhn test
+Discover Card, 6228 7483 1701 4907, pass Luhn test
+Mastercard, 5243 5534 0572 6980, fail Luhn test
+Laser, 63 0499 8315 4203 2876, fail Luhn test
+American Express, 346 8418 0916 8933, pass Luhn test
+Visa, 4951 2767 9712 6833, pass Luhn test
+Visa Electron, 4917 7316 4081 9748, pass Luhn test
+Visa, 4 7980 6576 2995, fail Luhn test
+Visa, 4762 5042 5506 4702, pass Luhn test
+Diners Club US and Canada, 5401 5080 8537 4152, fail Luhn test
+Maestro, 6 7635 2477 9748, pass Luhn test
+InstaPayment, 6387 6178 7768 6114, pass Luhn test
+Discover Card, 6226 3393 3048 3857, pass Luhn test
+Diners Club Carte Blanche, 30 5537 0042 7299, pass Luhn test
+JCB, 3586 2196 7351 6558, fail Luhn test
+
+
+
+Footer
+© 2022 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About

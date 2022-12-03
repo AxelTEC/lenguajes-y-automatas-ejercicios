@@ -1,0 +1,13 @@
+VOID=1
+MAIN=2
+PAREN_A=3
+PAREN_C=4
+LLAVE_A=5
+LLAVE_C=6
+ESPACIOS=7
+'void'=1
+'main'=2
+'('=3
+')'=4
+'{'=5
+'}'=6

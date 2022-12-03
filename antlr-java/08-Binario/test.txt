@@ -1,0 +1,17 @@
+/**
+* Do not modify this file
+* Author: Xenia Padilla
+* Date: Oct 24 2022
+* TEST FILE
+*/
+
+01010
+00000
+00111
+11011
+10101
+00101
+00101
+01100
+00001
+00100
